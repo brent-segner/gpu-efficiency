@@ -221,7 +221,7 @@ This repository accompanies the blog post: **"Beyond Utilization: Measuring True
 
 For more context on the methodology and business value:
 - [Medium Article](https://brentsegner.medium.com/beyond-utilization-measuring-true-gpu-efficiency-in-the-genai-era-2f3855d6342e)
-- [Capital One Tech Blog](https://medium.com/capital-one-tech)
+
 
 ## 🤝 Contributing
 
@@ -259,8 +259,8 @@ This project is released under the MIT License. See LICENSE file for details.
 ## 🙋 Questions or Feedback?
 
 Open an issue or reach out via:
-- GitHub Issues: [Create an issue](https://github.com/yourusername/gpu-efficiency-analytics/issues)
-- Email: your.email@example.com
+- GitHub Issues: [Create an issue](https://github.com/brent-segner/gpu-efficiency/issues)
+- Email: brent.segner@gmail.com
 
 ## 🎓 Citation
 
@@ -268,10 +268,10 @@ If you use this work in research or production:
 
 ```bibtex
 @software{gpu_efficiency_analytics,
-  author = {Your Name},
+  author = {Brent Segner},
   title = {GPU Efficiency Analytics: Beyond Utilization},
   year = {2026},
-  url = {https://github.com/yourusername/gpu-efficiency-analytics}
+  url = {[https://github.com/brent-segner/gpu-efficiency]}
 }
 ```
 
